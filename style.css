@@ -6577,6 +6577,9 @@ body {
 .text-inverse {
   color: #000000;
 }
+.text-white {
+  color: #ffffff;
+}
 /* TODO: verify if we can touch only section */
 .jumbotron {
   margin-bottom: 0px !important;
